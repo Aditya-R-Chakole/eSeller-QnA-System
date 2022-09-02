@@ -268,7 +268,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #212121;">
-  <a class="navbar-brand" href="https://share.streamlit.io/aditya-r-chakole/eseller/main/app.py" target="_blank" style="font-size: 25px;"><b>eSeller</b> | Question-Answering and Sentiment Analysis System</a>
+  <a class="navbar-brand" href="https://share.streamlit.io/aditya-r-chakole/eSeller-QnA-System/main/app.py" target="_blank" style="font-size: 25px;"><b>eSeller</b> | Question-Answering and Sentiment Analysis System</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -418,7 +418,7 @@ else:
             <div class="card bg-dark text-white" style="width: 75rem;">
                 <div class="card-body">                                
                     <div style="padding:1px;">
-                        <img src="https://github.com/Aditya-R-Chakole/eSeller/blob/main/startPage1.png?raw=true" alt="eSeller" width="100%" height="100%"></img>
+                        <img src="https://github.com/Aditya-R-Chakole/eSeller-QnA-System/blob/main/startPage1.png?raw=true" alt="eSeller" width="100%" height="100%"></img>
                         <h5 class="card-subtitle" style="display: flex; flex-direction:row; justify-content: space-evenly; color:#FFFFFF; position:absolute; top:60%; left:6.5%; width:325px;"><b>Select a <span style="color:#F7CA00;">Ecommerce Website</span> and put the <span style="color:#F7CA00;">Product Link</span> here.</b></h5>
                     </div>
                 </div>
@@ -428,7 +428,7 @@ else:
             <div class="card bg-dark text-white" style="width: 75rem;">
                 <div class="card-body">                                
                     <div style="padding:1px;">
-                        <img src="https://github.com/Aditya-R-Chakole/eSeller/blob/main/startPage2.png?raw=true" alt="eSeller" width="100%" height="100%"></img>
+                        <img src="https://github.com/Aditya-R-Chakole/eSeller-QnA-System/blob/main/startPage2.png?raw=true" alt="eSeller" width="100%" height="100%"></img>
                         <h5 class="card-subtitle" style="display: flex; flex-direction:row; justify-content: space-evenly; color:#FFFFFF; position:absolute; top:76%; left:20%; width:300px;"><b>Verify the Product and <span style="color:#F7CA00;">Ask Any Product related question here</span>.</b></h5>
                     </div>
                 </div>
@@ -438,7 +438,7 @@ else:
             <div class="card bg-dark text-white" style="width: 75rem;">
                 <div class="card-body">                                
                     <div style="padding:1px;">
-                        <img src="https://github.com/Aditya-R-Chakole/eSeller/blob/main/startPage3.png?raw=true" alt="eSeller" width="100%" height="100%"></img>
+                        <img src="https://github.com/Aditya-R-Chakole/eSeller-QnA-System/blob/main/startPage3.png?raw=true" alt="eSeller" width="100%" height="100%"></img>
                         <h5 class="card-subtitle" style="display: flex; flex-direction:row; justify-content: space-evenly; color:#FFFFFF; position:absolute; top:75%; left:15%; width:300px;"><b>Get the <span style="color:#F7CA00;">answer</span>, or else <span style="color:#F7CA00;">try changing the key word</span>.</b></h5>
                     </div>
                 </div>
